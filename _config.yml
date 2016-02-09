@@ -2,11 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: "keithmiller.us"
+url: "keithemiller.github.io"
 baseurl:
 title: The Personal Site of Keith E. Miller
 email: keith989sports@gmail.com 
 author: Keith Miller
+permalink: /:title
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -30,6 +31,6 @@ social:
   #- title: twitter
   #  url: https://twitter.com/keith989sports
   - title: github
-    url: http://github.com/keithemiller
+    url: https://github.com/keithemiller
   - title: linkedin
-    url: http://linkedin.com/in/keithemiller
+    url: https://linkedin.com/in/keithemiller
