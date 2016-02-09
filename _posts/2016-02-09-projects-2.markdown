@@ -1,0 +1,8 @@
+---
+layout: default
+img: Holeshot.png
+category: Projects
+title: Holeshot
+description: |
+---
+  Holeshot is an autonomous drag-racing car. As a Vaterra R/C car modified with an NVidia Jetson and an Arduino Uno, Holeshot is capable of drag-racing at speeds up to 40mph.

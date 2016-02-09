@@ -1,0 +1,8 @@
+---
+layout: default
+img: edge.png
+category: Projects
+title: Project Riemann:<br>Calculate the Rainbow
+description: |
+---
+  Built using Python and OpenCV, Project Riemann uses computer vision to estimate the number of objects in a container. Project Riemann generates its own dynamic packing coefficients based on configuration pictures that provide greater accuracy than normal, static packing coefficients. 
