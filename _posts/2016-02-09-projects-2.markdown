@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Holeshot.png
+img: holeshot_logo.png
 category: Projects
 title: Holeshot
 description: |
