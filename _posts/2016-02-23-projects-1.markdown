@@ -5,4 +5,4 @@ category: Projects
 title: KeithTeachesPython
 description: |
 ---
-  I am developing a collection of Jupyter Notebooks for teaching Python for the UMass ACM Cybersecurity club. The first workshop was run on 2/18/16. 
+  I am developing a collection of Jupyter Notebooks for teaching Python for the UMass ACM Cybersecurity club. The first workshop was run on 2/18/16.
